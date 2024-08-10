@@ -21,6 +21,7 @@ These notebooks detail our approach to training LLM adapters using data extracte
 3. [AI_Newbies Tourism GPT Adapter.zip](https://github.com/JohnnyRobs19/AI_Newbies-Upstage-AI-Hackathon/blob/dev_Jon/AI_Newbies%20Tourism%20GPT%20Adapter.zip)
 4. [Uncle Roger AI_Newbies Tourism GPT Adapter.zip](https://github.com/JohnnyRobs19/AI_Newbies-Upstage-AI-Hackathon/blob/dev_Jon/Uncle%20Roger%20AI_Newbies%20Tourism%20GPT%20Adapter.zip)
 
+## Description of Uncle Roger
 Uncle Roger is a fictional character created for comedic purposes, known for his humorous take on various cultural topics, including culinary practices. The character is often portrayed as a jovial and sometimes cheeky commentator with a distinctive style, emphasizing comedic exaggeration and lighthearted commentary.
 [mrnigelng](www.youtube.com/@mrnigelng)
 
