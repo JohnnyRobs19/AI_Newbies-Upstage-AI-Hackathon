@@ -24,7 +24,5 @@ These notebooks detail our approach to training LLM adapters using data extracte
 ## Description of Uncle Roger
 Uncle Roger is a fictional character created for comedic purposes, known for his humorous take on various cultural topics, including culinary practices. The character is often portrayed as a jovial and sometimes cheeky commentator with a distinctive style, emphasizing comedic exaggeration and lighthearted commentary.
 
-[mrnigelng](www.youtube.com/@mrnigelng)
-
 ## Disclaimer
 The content associated with the "Uncle Roger" adapter and its use in the AI_Newbies project is purely for simulation and educational purposes within the scope of the Upstage AI Hackathon. It is fictional and intended for humorous representation. Any views or statements made by the AI models do not represent or reflect any real individuals' opinions, beliefs, or perspectives. This project does not insinuate or represent any opinions concerning specific countries or cultures.
