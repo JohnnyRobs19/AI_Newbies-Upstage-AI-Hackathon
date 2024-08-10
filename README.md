@@ -18,8 +18,8 @@ This project includes two main Jupyter notebooks:
 
 These notebooks detail our approach to training LLM adapters using data extracted from the Official Jeju Tourism Guidebook (Updated June 2024). LLM adapters are small, trainable components that adjust a large pre-trained language model to specific tasks or datasets without needing to retrain the entire model. By training these adapters, we can customize the model’s responses to better reflect the characteristics and promotional needs of Jeju’s tourism sector.
 
-3. [AI_Newbies Tourism GPT Adapter.zip] (https://github.com/JohnnyRobs19/AI_Newbies-Upstage-AI-Hackathon/blob/dev_Jon/AI_Newbies%20Tourism%20GPT%20Adapter.zip)
-4. [Uncle Roger AI_Newbies Tourism GPT Adapter.zip] (https://github.com/JohnnyRobs19/AI_Newbies-Upstage-AI-Hackathon/blob/dev_Jon/Uncle%20Roger%20AI_Newbies%20Tourism%20GPT%20Adapter.zip)
+3. [AI_Newbies Tourism GPT Adapter.zip](https://github.com/JohnnyRobs19/AI_Newbies-Upstage-AI-Hackathon/blob/dev_Jon/AI_Newbies%20Tourism%20GPT%20Adapter.zip)
+4. [Uncle Roger AI_Newbies Tourism GPT Adapter.zip](https://github.com/JohnnyRobs19/AI_Newbies-Upstage-AI-Hackathon/blob/dev_Jon/Uncle%20Roger%20AI_Newbies%20Tourism%20GPT%20Adapter.zip)
 
 Inside these adapters, there are 
 a. adapter_config.json - This JSON file contains configuration settings for the adapter. It likely specifies how the adapter integrates with the larger model, including settings like the size of the adapter layers, activation functions, and other hyperparameters.
