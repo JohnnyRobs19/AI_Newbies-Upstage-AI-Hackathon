@@ -8,8 +8,8 @@ University of Malaya, Malaysia
 
 ## Team Members
 1. Jonathan Siew Zunxian
-2. Ooi Rui Zhe (Rexton)
-3. Wong Yoong Yee (Mack)
+2. Ooi Rui Zhe
+3. Wong Yoong Yee
 
 ## Brief Synopsis
 This project includes two main Jupyter notebooks:
